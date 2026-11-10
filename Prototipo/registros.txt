@@ -1,7 +1,0 @@
-3;12/10/2026;04:35;docente;vacia;no;no;si
-4;23/10/2026;08:00;docente;vacia;si;no;si
-6;05/11/2026;06:54;docente;ocupada;si;si;si
-5;02/11/2026;14:21;estudiante;vacia;si;no;no
-8;02/11/2026;12:56;docente;vacia;no;no;no
-9;03/11/2026;05:39;docente;vacia;no;no;si
-7;01/11/2026;01:20;estudiante;vacia;si;si;no
